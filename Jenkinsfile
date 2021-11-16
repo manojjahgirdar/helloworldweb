@@ -21,3 +21,4 @@
     archiveArtifacts artifacts: 'target/*.war', followSymlinks: false
   }
 }
+
